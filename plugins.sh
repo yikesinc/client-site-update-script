@@ -8,8 +8,8 @@ installs='aatravelers adesis aidslp alliancewe ascinc baums casapapel ccahatool 
 		cedarpointbar chop d3b decibelcloud delawarenature designthinkstd dineoutforlife 
 		equityproject firststatecc flyingfish gbscloud gbscidpfnd gbscidpforums harvestmkt hivprevention htjewelry
 		iba inoutsource kimberton lindaleealter movingt mstonepartners
-		multimeasures nursepartners patatgiovannis philafight phillymagic
-		phlcontroller phlgeekawards phrootz pjerome researchforact riverfrontn
+		multimeasures museumcn nursepartners oacce patatgiovannis philafight phillymagic
+		phlcontroller phlgeekawards phrootz pjerome pmexperiences researchforact riverfrontn
 		soulfullproj spicermullikin steverotfeld tredyffrin waverly
 		yikescloud yikesplugins'
 
